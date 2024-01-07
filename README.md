@@ -1,6 +1,11 @@
 # ESP32_YouTubeCounter
 ESP32 YouTube counter with MAX7219
 <br>
+Check the instruction on how to use it on [YouTube](https://www.youtube.com/@bloxylabs "YouTube").
+<br>
+<br>
+If you had fun with the projects, please consider buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee").
+
 <h3><u>What do you need</u></h3>
 <p>Hardware:</p>
 <p>An ESP32 Wroom development Kit (you can also use other ESP32's)<br>
