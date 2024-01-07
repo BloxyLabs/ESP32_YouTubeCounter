@@ -45,3 +45,12 @@ Your WiFi SSID and WiFi password<br>
   </tr>
 </tbody>
 </table>
+<h3><u>Required libraries</u></h3>
+<p>Libraries already available in ARduino IDE:<br>
+MD_Parola by majicDesigns<br>
+MD_MAX72XX by majicDesigns<br>
+ArduinoJson by Benoit Blanchon<br>
+<br>
+Additional library available on this GitHub:<br>
+FontSubs<br>
+</p>
