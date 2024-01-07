@@ -1,14 +1,25 @@
 # ESP32_YouTubeCounter
 ESP32 YouTube counter with MAX7219
 <br>
-<h3><u>Setup</u></h3>
-    <p>The ESP32 setup is as follows:</p>
-
+<h3><u>What do you need</u></h3>
+<p>Hardware:</p>
+<p>An ESP32 Wroom development Kit (you can also use other ESP32's)<br>
+A MAX7219 dot matrix module with 4 segments<br>
+Five female to female jump wires (if they are not included with the MAX7219 dot matrix module)<br>
+An USB-A to Micro-USB cable or on USB-A to USB-C cable (this depends of the ESP32 version)<br>
+<br>
+<p>Software and credentials:</p>
+Arduino IDE (you can download this from www.arduino.cc)<br>
+The ID of your YouTube data api (see our instruction on YouTube)<br>
+The ID of your YouTube channel (https://www.youtube.com/account_advanced)<br>
+Your WiFi SSID and WiFi password<br>
+</p>
+<h3><u>Connecting the pins</u></h3>
    <table>
 <thead>
   <tr>
     <th>LED Matrix</th>
-    <th>ESP32 pins</th>
+    <th>ESP32 pin</th>
   </tr>
 </thead>
 <tbody>
