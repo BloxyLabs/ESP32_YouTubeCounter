@@ -1,10 +1,13 @@
 # ESP32_YouTubeCounter
-ESP32 YouTube counter with MAX7219
+**ESP32 YouTube counter with MAX7219**
+<br>
+<br>
+![fotoytcounterklein](https://github.com/BloxyLabs/ESP32_YouTubeCounter/assets/154561068/bb2ba7d9-330e-4286-a672-a8f6927c0e91)
+<br>
 <br>
 Check the instruction on how to use it on [YouTube](https://www.youtube.com/@bloxylabs "YouTube").
 <br>
-<br>
-If you had fun with the projects, please consider buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee").
+If you had fun with the projects, please consider buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee") :coffee:.
 
 <h3><u>What do you need</u></h3>
 <p>Hardware:</p>
